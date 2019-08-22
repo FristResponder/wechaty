@@ -141,6 +141,9 @@ Learn more about Wechaty Puppet from the Puppet Wiki:
 1. Puppet Directory: <https://github.com/Chatie/wechaty-puppet/wiki/Directory>
 1. Puppet Compatibility: <https://github.com/Chatie/wechaty-puppet/wiki/Compatibility>
 
+### 4. About QRCode
+in windows cmd, maybe the QRCode is out of shape so you can't scan anything.you can do this:
+1.you can copy the url below the qrcode to browser,and you can see a whole qrcode, scan it!
 
 ## API
 
